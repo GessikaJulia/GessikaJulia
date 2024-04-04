@@ -1,4 +1,7 @@
-### Hi there 👋
+### Seja bem-vindo! 🦋 
+
+Meu nome é Gessika Julia, sou técnica em Informática e bacharelanda em Ciencia da Computação.
+- Instituto Federal Goiano 
 
 <!--
 **GessikaJulia/GessikaJulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
