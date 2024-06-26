@@ -1,6 +1,6 @@
 ### Seja bem-vindo! 🦋 
 
-Meu nome é Gessika Julia, sou técnica em Informática e bacharelanda em Ciencia da Computação.
+Meu nome é Gessika Julia, sou técnica em Informática e bacharelanda em Ciência da Computação.
 - Instituto Federal Goiano 
 
 <!--
